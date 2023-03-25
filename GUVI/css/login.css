@@ -1,0 +1,25 @@
+body {
+    background-image: url(../assets/images/pexels-pixabay-206359.jpg);
+   
+}
+.container {
+    background-color: #ffffff;
+    margin-top: 100px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 521px;
+    height: 368px;
+
+}
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+form {
+    margin-top: 30px;
+}
+.back{
+    color: #ffffff;
+    text-decoration: none;
+    list-style: none;
+}
